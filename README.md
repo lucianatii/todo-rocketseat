@@ -3,7 +3,7 @@ Projeto responsivo desenvolvido na imersão NLW Journey da Rocketseat a partir d
 <p></p>
 
 ## ⚡Objetivo: 
-<p>Desenvolver um roteiro de viagem onde o usuário possa agendar tarefas na semana e posteriormente, marcá-las como concluídas. </p>
+<p>Desenvolver um roteiro de viagem onde o usuário possa agendar tarefas na semana e, posteriormente, marcá-las como concluídas. </p>
 
 ## 🚀 Tecnologias Utilizadas
 <p>➡️ HTML</p>
